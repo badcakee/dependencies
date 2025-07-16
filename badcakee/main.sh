@@ -4,4 +4,5 @@ apt update
 apt install apt-fast -y
 apt-fast curl wget nano git unzip zip tar htop net-tools neofetch -y
 apt-fast upgrade -y
+clear
 echo ✅ Installed curl, wget, nano, git, unzip, zip, tar, htop, net-tools and neofetch
